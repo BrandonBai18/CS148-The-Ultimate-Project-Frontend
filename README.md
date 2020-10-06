@@ -1,15 +1,15 @@
 # CS148-The-Ultimate-Project
 
 
-Project SUmmary:
-  One-sentence description:
-  Project Overview:
+1 Project SUmmary:
+1.1 One-sentence description:
+1.2 Project Overview:
 
-Installation:
-  prerequisites:
-  Installation Steps:
+2 Installation:
+2.1 Prerequisites:
+2.2 Installation Steps:
 
-Functionality and Known issues:
+3 Functionality and Known issues:
 
 
-License:
+4 License:
